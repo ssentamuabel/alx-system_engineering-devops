@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --sort=time | grep -v '^d' | cut -d" " -f9 | head -n 10
+ls -lt --sort=time | grep -v '^d' | cut -d" " -f9 | head -n 11
